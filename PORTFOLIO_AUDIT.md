@@ -9,6 +9,8 @@
 - 已验证远程 `README.md` 存在于 `main` 分支。
 - 已建立本地 Academic Portfolio 仓库 `E:\桌面\havoury.github.io`。
 - 已完成静态个人主页第一版，包含 Home、About、Research Interests、Publication、Selected Projects、Experience、Contact。
+- 已推送 GitHub Pages 仓库 `havoury/havoury.github.io`。
+- 已验证 `https://havoury.github.io` 返回 HTTP 200。
 - 已建立可维护数据结构：
   - `data/publications.json`
   - `data/projects.json`
@@ -26,10 +28,10 @@
 
 ### `havoury/havoury.github.io`
 
-- 状态：远程仓库尚未创建。
+- 状态：已创建并已推送。
 - 本地状态：已完成第一版静态站点并提交。
 - 本地 commit：`822b426 Initialize academic portfolio site`
-- 阻塞原因：当前 GitHub 集成没有创建新仓库能力；直接推送返回 `Repository not found`。
+- 部署地址：`https://havoury.github.io`
 
 ## 内容策略检查
 
@@ -59,6 +61,6 @@
 ## 待处理
 
 - 创建远程仓库 `havoury.github.io`。
-- 推送 `E:\桌面\havoury.github.io` 到远程。
-- 打开 `https://havoury.github.io` 检查部署效果。
+- 检查 `https://havoury.github.io` 的桌面端和移动端视觉效果。
+- 将 Profile README 中的 Academic portfolio 链接改为 `https://havoury.github.io`。
 - 后续审计 ECAYOLOv8n-LC、OpenHarmony + RK3566、NTU AI Project、Smart Community Microservices 等项目仓库。

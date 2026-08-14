@@ -7,15 +7,14 @@
 - `E:\桌面\havoury` 已初始化为独立 Git 仓库，目标对应 GitHub Profile 仓库 `havoury/havoury`。
 - Profile README 已建立第一版，主线定位为 Computer Vision / Efficient AI / Intelligent Systems，并已推送到 GitHub `main`。
 - 上级 `E:\桌面\.gitignore` 已加入 `havoury/`，避免被桌面上的其他 Git 仓库误追踪。
-- `E:\桌面\havoury.github.io` 已建立本地 Academic Portfolio 静态站点，并初始化为独立 Git 仓库。
-- `havoury.github.io` 远程仓库尚未创建，当前 GitHub 集成没有创建仓库能力。
+- `E:\桌面\havoury.github.io` 已建立 Academic Portfolio 静态站点，并已推送到 GitHub Pages 仓库。
+- `https://havoury.github.io` 已部署并返回 HTTP 200。
 
 ## 优先级 A
 
 - 检查 GitHub Profile 页面实际渲染效果。
-- 创建远程仓库 `https://github.com/havoury/havoury.github.io.git`。
-- 推送本地 `E:\桌面\havoury.github.io` 到 GitHub Pages 仓库。
-- 检查 GitHub Pages 实际部署效果。
+- 检查 GitHub Pages 页面视觉效果和移动端布局。
+- 将 Profile README 中的 Academic portfolio 链接改为 `https://havoury.github.io`。
 
 ## 优先级 B
 

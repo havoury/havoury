@@ -72,5 +72,4 @@ Project Lead of an engineering training project involving Spring Cloud Alibaba, 
 ## Contact
 
 - GitHub: [github.com/havoury](https://github.com/havoury)
-- Academic portfolio: coming soon
-
+- Academic portfolio: [havoury.github.io](https://havoury.github.io)
