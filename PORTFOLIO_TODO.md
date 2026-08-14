@@ -9,16 +9,20 @@
 - 上级 `E:\桌面\.gitignore` 已加入 `havoury/`，避免被桌面上的其他 Git 仓库误追踪。
 - `E:\桌面\havoury.github.io` 已建立 Academic Portfolio 静态站点，并已推送到 GitHub Pages 仓库。
 - `https://havoury.github.io` 已部署并返回 HTTP 200。
+- `E:\桌面\ecayolov8n-lc` 已建立清理后的公开候选仓库，并已完成本地初始提交。
+- 原始 ECAYOLO 工作目录发现本地访问凭据、dataset、venv、checkpoints、绝对路径数据清单，不能直接公开。
 
 ## 优先级 A
 
 - 检查 GitHub Profile 页面实际渲染效果。
 - 检查 GitHub Pages 页面视觉效果和移动端布局。
-- 将 Profile README 中的 Academic portfolio 链接改为 `https://havoury.github.io`。
+- 创建远程仓库 `https://github.com/havoury/ecayolov8n-lc.git`。
+- 推送本地 `E:\桌面\ecayolov8n-lc`。
+- 将主页 ECAYOLO 项目卡片从 `Repository pending` 改为正式仓库链接。
 
 ## 优先级 B
 
-- 审计 ECAYOLOv8n-LC 项目代码和实验材料，整理成高优先级研究仓库。
+- 继续补齐 ECAYOLOv8n-LC 方法实现代码、实验表格和可公开可视化结果。
 - 审计 OpenHarmony + RK3566 项目，明确可公开内容和硬件/系统复现边界。
 - 审计 NTU Book Price Prediction 项目，整理为 Research / ML 项目。
 - 审计 Smart Community Microservices 项目，整理为工程能力补充仓库。
